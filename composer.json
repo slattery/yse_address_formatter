@@ -1,0 +1,6 @@
+{
+  "name": "slattery/yse_address_formatter",
+  "description": "campus-aware address formats",
+  "type": "drupal-custom-module",
+  "license": "GPL-2.0-or-later"
+}
