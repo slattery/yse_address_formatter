@@ -2,7 +2,7 @@ name: YSE Trim Address Formatters
 description: Provides trimmed formatter for address field.
 type: module
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 package: Address
 dependencies:
  - address:address
