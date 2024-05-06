@@ -1,8 +1,10 @@
-name: YSE Trim Address Formatters
-description: Provides trimmed formatter for address field.
-type: module
+---
 core: 8.x
-core_version_requirement: ^8 || ^9 || ^10
-package: Address
+core_version_requirement: '^8 || ^9 || ^10'
 dependencies:
- - address:address
+  - address:address
+description: 'Provides trimmed formatter for address field.'
+name: 'YSE Trim Address Formatters'
+package: Address
+type: module
+version: v1.4.2
